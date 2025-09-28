@@ -1,6 +1,6 @@
 % Pringles Hyperbolic Paraboloid Animation
 % Engineering masterpiece - exactly like the mathematical equation shown
-% z = (x²/a² - y²/b²) with fine mesh and beautiful colors
+% z = (x²/a² - y²/b²) with fine 
 
 clear all;
 close all;
